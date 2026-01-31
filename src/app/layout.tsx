@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Blog App Challenge",
+  title: "Blog App - Challenge 10",
   description: "Blog Application Challenge - Next.js",
 };
 
